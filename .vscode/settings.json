@@ -1,0 +1,6 @@
+{
+	"cmake.clearOutputBeforeBuild": false,
+	"cmake.exportCompileCommandsFile": true,
+	"cmake.buildBeforeRun": false,
+	"C_Cpp.default.compileCommands": "build/compile_commands.json"
+}
